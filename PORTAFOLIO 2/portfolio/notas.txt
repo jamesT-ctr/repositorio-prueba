@@ -1,0 +1,70 @@
+font
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+
+
+html////////////////////////////////////////////////////////////////////////////////////////
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadow dev</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova:ital,wght@0,400..700;1,400..700&display=swap" rel="stylesheet">
+
+
+
+</head>
+<body>
+    <header>
+        <div>
+            <h1>James Tautiva</h1>
+        </div>
+        <div>
+            <nav>
+                <ul>
+                    <li>Acerca de mi</li>
+                    <li>Trabajo</li>
+                    <li>Contacto</li>
+                    <li class="correo">shadowDev@gmail.com</li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+
+    <main>
+        <section>
+            <div class="section-disponible">
+                <div class="iconCircleGreen"></div>
+                <h3>Disponible para trabajar</h3>
+            </div>
+        </section>
+        <section>
+            <div class="section-precentacion">
+                <h2> <font color="#424E59">soy james</font>, Desarrollador <font color="#424E59">FullStack</font> de Colombia, enfocado en la calidad de <font color="#424E59">experiencia al usuario y diseño de paginas web</font>. </h2>
+                <img src="assets/img/perfil.jpg" alt="">
+            </div>
+            
+        </section>
+
+        <section>
+            <div class="section-titulo-container">
+                <h2><font color="#424E59">Ultimos</font> Proyectos</h2>
+                <h4>ver todo  </h4>
+            </div>
+        </section>
+
+        
+        <section>
+            
+        </section>
+    </main>
+</body>
+</html>
